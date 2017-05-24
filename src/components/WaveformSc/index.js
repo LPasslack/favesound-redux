@@ -2,7 +2,7 @@ import React from 'react';
 import Waveform from 'waveform.js';
 import { normalizeSamples, isJsonWaveform, isPngWaveform } from '../../services/track';
 
-const WAVE_COLOR = '#61B25A';
+const WAVE_COLOR = '#039be5';
 
 class WaveformSc extends React.Component {
 

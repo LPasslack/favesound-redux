@@ -16,7 +16,7 @@ function Logo({ genre }) {
   return (
     <div>
       <Link to={getGenreLink(genre)}>
-        <h1>Favesound</h1>
+        <h1>SoundCloud Player: Favesound</h1>
       </Link>
     </div>
   );
